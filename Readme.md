@@ -1,7 +1,7 @@
 # Личный проект «Девайс»
 
 * Студент: [Клим Чистопашин](https://up.htmlacademy.ru/htmlcss/35/user/2066669).
-* Наставник: `Неизвестно`.
+* Наставник: [Роман Ясель](https://htmlacademy.ru/profile/yasel).
 
 ---
 
